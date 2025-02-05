@@ -1,7 +1,0 @@
-Declaración de Impuestos Anual
-==============================
-Ingreso Anual: 7200.0
-Deducciones: 600.0
-Base Imponible: 6600.0
-Impuesto a Pagar: 0.0
-==============================
